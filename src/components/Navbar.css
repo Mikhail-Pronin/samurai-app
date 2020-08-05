@@ -1,0 +1,12 @@
+/* Navigation */
+
+.nav {
+    grid-area: n;
+    color: #adadad;
+    background-color: #1c1b1c;
+    padding: 5px 5px;
+}
+
+.item {
+    color: #fff;
+}
